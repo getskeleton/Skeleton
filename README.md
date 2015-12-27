@@ -62,7 +62,18 @@ Have an extension you want to see here? Just shoot an email to hi@getskeleton.co
 
 Skeleton was built using [Sublime Text 3](http://www.sublimetext.com/3) and designed with [Sketch](http://bohemiancoding.com/sketch). The typeface [Raleway](http://www.google.com/fonts/specimen/Raleway) was created by [Matt McInerney](http://matt.cc/) and [Pablo Impallari](http://www.impallari.com/). Code highlighting by Google's [Prettify library](https://code.google.com/p/google-code-prettify/). Icons in the header of the documentation are all derivative work of icons from [The Noun Project](http://thenounproject.com). [Feather](http://thenounproject.com/term/feather/22073) by Zach VanDeHey, [Pen](http://thenounproject.com/term/pen/21163) (with cap) by Ed Harrison, [Pen](http://thenounproject.com/term/pen/32847) (with clicker) by Matthew Hall, and [Watch](http://thenounproject.com/term/watch/48015) by Julien Deveaux.
 
+## Discussions
 
-## Acknowledgement
+https://gitter.im/getskeleton
 
-Skeleton was created by [Dave Gamache](https://twitter.com/dhg) for a better web.
+Why gitter and not slack? Nature abhores monopoly and while I have my reservations that it'll ever grow to a scale that will hit Slacks limitations for large communities: http://blog.freecodecamp.com/2015/06/so-yeah-we-tried-slack-and-we-deeply-regretted-it.html
+
+## Why fork?
+
+I think we owe a beer or two to Dave Gamache building this and making it available to the public. I created an Organisation and added a handful of people with thoughtful well documented PRs as members. Aim is to minimise the single Point of Failure that a single owner can have.
+
+## Contributing
+
+Skeleton was created by [Dave Gamache](https://twitter.com/dhg) for a better web. See contributions.txt for people who've taken the time to make improvements big and small.
+
+The current goal is to fix bugs, maintain compatibility across changes, and keep it a [small library](http://blog.orderharmony.com/2011/07/libraries-vs-frameworks.html).
