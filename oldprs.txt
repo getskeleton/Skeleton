@@ -1,0 +1,40 @@
+w - #124 Replaced Offsets with Push & Pulls - breaking change
+w - #177 Running image optim over image files - repo gone
+w - #190 adding package.json for 'npm install' - not worried about this ATM.
+m - #218 add a seperate minified version of normailze.css
+m - #226 Added Brixy's suggestions, see #225
+w - #228 Reorder fraction aliases to remove repeated width declarations - intermingles declaration grouping.
+_ - #232 Add formatting for date inputs
+_ - #233 Convert hex color value to uppercase letters
+_ - #235 Rows attribute being ignored on textarea
+_ - #237 Added :active state for buttons (default & primary)
+_ - #239 Update grid with bootstrap like classes for small and medium devices
+_ - #249 add rtl file
+_ - #251 Match version number for Skeleton on Sass
+_ - #252 Apply a natural box layout model to all elements
+_ - #255 Added input[type="submit"] selector
+_ - #258 adds non-responsive-column class for creating grids that must maintain s...
+_ - #265 Updated Versions: Skeleton-less and Skeleton-Sass
+_ - #267 Set clearfix styles for helper class .u-cf onto the pseudo element :afte...
+_ - #270 Fixed inconsistent offsets
+_ - #273 Apply fixed height to select only if `size` attribute is not present
+m - #274 Add date and month input styling 
+_ - #277 Added text utilities for quick text alignment
+_ - #278 Remove moot `version` property from bower.json
+_ - #282 Fixes container overflow on pre>code blocks
+_ - #283 Added extra 4% to offset columns
+_ - #285 Button disabled style
+_ - #287 added button type to list of inputs which need ios default styles removed
+w - #288 Fix url for google fonts
+_ - #290 skeleton-landing-page
+_ - #291 Consistent percentage values
+_ - #299 Update normalize, add Edge browser reference
+_ - #302 .phone max-width changed to 50% on mobile
+_ - #305 Fixes offset classes
+
+Legend
+------
+w - won't fix.
+m - merged.
+_ - not reviewed yet.
+
