@@ -344,7 +344,6 @@ pre > code {
 /* Tables
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 table {
-  display: block;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch; }
 th,
